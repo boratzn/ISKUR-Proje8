@@ -1,0 +1,11 @@
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\bin\Debug\OgrenciSistem.exe.config
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\bin\Debug\OgrenciSistem.exe
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\bin\Debug\OgrenciSistem.pdb
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.csproj.AssemblyReference.cache
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.csproj.SuggestedBindingRedirects.cache
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.Form1.resources
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.Properties.Resources.resources
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.csproj.GenerateResource.cache
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.csproj.CoreCompileInputs.cache
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.exe
+D:\Bora\source\repos\OgrenciSistem\OgrenciSistem\obj\Debug\OgrenciSistem.pdb
